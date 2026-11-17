@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi, I'm Bala Ganesh S 👋
 
-<!--
-**BalaForge1511/BalaForge1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-Year ECE (Data Science) Student at SRMIST
 
-Here are some ideas to get you started:
+💻 Aspiring Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Currently Learning Java
+
+🌐 Familiar with HTML
+
+📚 Exploring Software Development and Data Science
+
+About Me
+
+- Interested in building software applications.
+- Currently improving my Java programming skills.
+- Learning and exploring web technologies.
+- Passionate about continuous learning and problem-solving.
+
+Tech Stack
+
+- Java
+- HTML
+- C
+- Python
+
+Goals
+
+- Strengthen my programming fundamentals.
+- Learn Full Stack Development.
+- Build practical projects.
+- Contribute to open-source projects.
+
+Connect With Me
+
+- LinkedIn: Add your LinkedIn profile URL here
